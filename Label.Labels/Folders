@@ -1,0 +1,5 @@
+Folder designate the label that was held out during the label registration. The resultant labelmap in the folder indicates the reference labelmaps in subject space through inverse transform. 
+The only label in those labelmaps that's meaningful to compare to manually annotated ones is the one matching the folder.
+
+Manually edited and review gold standard labels are in: /home2/rachel/P01/MagaLab/Data/RigidAligned/fullRes_simpleLabels/
+
